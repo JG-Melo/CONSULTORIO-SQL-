@@ -1,4 +1,4 @@
-# 🏥 Sistema de Banco de Dados - Consultório Médico
+# Sistema de Banco de Dados - Consultório Médico
 
 Projeto desenvolvido com foco em modelagem de banco de dados relacional utilizando MySQL.
 
@@ -8,10 +8,10 @@ O sistema simula a estrutura de um consultório médico, permitindo o registro e
 
 O banco é composto por tabelas relacionadas para representar:
 
-- 👨‍⚕️ Médicos
-- 🧑‍🤝‍🧑 Pacientes
-- 📅 Consultas
-- 📝 Informações médicas
+-  Médicos
+-  Pacientes
+-  Consultas
+-  Informações médicas
 
 Foram aplicados conceitos de:
 
